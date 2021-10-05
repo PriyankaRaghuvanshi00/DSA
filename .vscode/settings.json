@@ -1,0 +1,12 @@
+{
+   "git.ignoreLimitWarning": true,
+   "files.associations": {
+      "files.associations": "*html:html",
+      "ostream": "cpp",
+      "iostream": "cpp",
+      "cmath": "cpp",
+      "bitset": "cpp",
+      "string_view": "cpp",
+      "new": "cpp"
+   }
+}

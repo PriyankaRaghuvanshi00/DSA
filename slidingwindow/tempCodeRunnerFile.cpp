@@ -1,0 +1,1 @@
+cout << ana_str << " ";
